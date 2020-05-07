@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+.zip
+Assets/
+/Assets
+/node_modules/
